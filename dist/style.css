@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+.animateIntro {
+  height: 100%;
+  text-align: center;
+  padding-top: 150px;
+  padding-left: 0;
+  padding-right: 0;
+  z-index: 2000; }
